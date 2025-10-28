@@ -110,7 +110,7 @@ The project runs out-of-the-box on **Vercel**.
    ```
 4. Deploy to get a live link (e.g. `https://gdg-frontend.vercel.app`).
 
-You may use the link below to view the project.
+You may use the link to view the project.
 https://vercel.com/vickys-projects-a54e4890/gdg-frontend-asma-ahmed-final-copy
 
 ---
